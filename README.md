@@ -13,7 +13,7 @@ Feel free to contribute under Hacktoberfest '18!
 
 ## Contributors
 
-* [Jobayer Ahmed Mickey](https://github.com/Jobayer-Ahmed)
-    
+* [Jobayer Ahmed Mickey](https://github.com/Jobayer-Ahmed)  
+* [MD. Mehedi Hasan](https://github.com/Mehedi61)  
     
 ### Thank you
