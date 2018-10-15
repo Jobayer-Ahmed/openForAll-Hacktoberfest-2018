@@ -15,5 +15,6 @@ Feel free to contribute under Hacktoberfest '18!
 
 * [Jobayer Ahmed Mickey](https://github.com/Jobayer-Ahmed)  
 * [MD. Mehedi Hasan](https://github.com/Mehedi61)  
+* [Jonh Pulido](https://github.com/JonhPulido)
     
 ### Thank you
