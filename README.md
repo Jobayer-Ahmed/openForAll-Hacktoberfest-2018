@@ -17,5 +17,6 @@ Feel free to contribute under Hacktoberfest '18!
 * [MD. Mehedi Hasan](https://github.com/Mehedi61)
 * [Shafiul Kayem](https://github.com/shafiulkayem)
 * [Jonh Pulido](https://github.com/JonhPulido)
+* [Marufur Rahman](https://github.com/MarufurRahman)
     
 ### Thank you
