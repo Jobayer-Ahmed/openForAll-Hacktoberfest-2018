@@ -18,5 +18,6 @@ Feel free to contribute under Hacktoberfest '18!
 * [Shafiul Kayem](https://github.com/shafiulkayem)
 * [Jonh Pulido](https://github.com/JonhPulido)
 * [Marufur Rahman](https://github.com/MarufurRahman)
+* [Daipu](https://github.com/Daipu)
     
 ### Thank you
