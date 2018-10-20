@@ -20,4 +20,5 @@ Feel free to contribute under Hacktoberfest '18!
 * [Marufur Rahman](https://github.com/MarufurRahman)
 * [Daipu](https://github.com/Daipu)
 * [HrishikesHB](https://github.com/HrishikeshHB)    
+* [Chandan Singh](https://github.com/schandan696)
 ### Thank you
