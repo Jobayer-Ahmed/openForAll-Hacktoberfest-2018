@@ -12,8 +12,9 @@ Feel free to contribute under Hacktoberfest '18!
 * Wait for Pull Request to merge
 
 ## Contributors
+
 * [Sajid305](https://github.com/Sajid305)
-* [Jobayer Ahmed Mickey](https://github.com/Jobayer-Ahmed)  
+* [Jobayer Ahmed Mickey](https://github.com/Jobayer-Ahmed)
 * [MD. Mehedi Hasan](https://github.com/Mehedi61)
 * [Shafiul Kayem](https://github.com/shafiulkayem)
 * [Jonh Pulido](https://github.com/JonhPulido)
@@ -21,4 +22,7 @@ Feel free to contribute under Hacktoberfest '18!
 * [Daipu](https://github.com/Daipu)
 * [HrishikesHB](https://github.com/HrishikeshHB)  
 * [Ravi Gupta](https://github.com/guptaravi5400)
+* [HrishikesHB](https://github.com/HrishikeshHB)
+* [gkkirilov](https://github.com/gkkirilov)
+
 ### Thank you
