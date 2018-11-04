@@ -20,6 +20,8 @@ Feel free to contribute under Hacktoberfest '18!
 * [Jonh Pulido](https://github.com/JonhPulido)
 * [Marufur Rahman](https://github.com/MarufurRahman)
 * [Daipu](https://github.com/Daipu)
+* [HrishikesHB](https://github.com/HrishikeshHB)   
+* [Mhae Co](https://github.com/mhaeco) 
 * [HrishikesHB](https://github.com/HrishikeshHB)
 * [Anirudh](https://github.com/anirudhkanakatte)    
 * [HrishikesHB](https://github.com/HrishikeshHB)  
