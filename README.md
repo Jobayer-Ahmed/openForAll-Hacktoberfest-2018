@@ -24,5 +24,6 @@ Feel free to contribute under Hacktoberfest '18!
 * [Ravi Gupta](https://github.com/guptaravi5400)
 * [HrishikesHB](https://github.com/HrishikeshHB)
 * [gkkirilov](https://github.com/gkkirilov)
+* [Ravi Kumar Gupta](https://github.com/guptaravi5400
 
 ### Thank you
