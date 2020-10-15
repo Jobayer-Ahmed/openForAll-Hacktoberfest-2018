@@ -22,6 +22,7 @@ Feel free to contribute under Hacktoberfest '18!
 * [Daipu](https://github.com/Daipu)
 * [HrishikesHB](https://github.com/HrishikeshHB)   
 * [Afzalur Rahaman](https://github.com/7afzal) 
+* [Ravi](https://github.com/guptaravi540)
 * [HrishikesHB](https://github.com/HrishikeshHB)    
 * [Chandan Singh](https://github.com/schandan696)
 * [Abhishek Chahar](https://github.com/Devil1729)
